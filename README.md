@@ -8,9 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zahidkhan1081&theme=gruvbox" alt="trophies" />
-  </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidkhan1081&theme=gruvbox" alt="zahidkhan1081" /></a>
 </p>
 
 -  telescope: I’m currently working on **FULL STACK**
