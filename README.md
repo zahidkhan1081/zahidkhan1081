@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=zahidkhan1081&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-
+<hr>
 -  telescope: I’m currently working on **FULL STACK**
 - 👯 I’m looking to collaborate on **MERN STACK**
 - 🤝 I’m looking for help with **FULL STACK**
@@ -17,12 +17,13 @@
 - 👨‍💻 All of my projects are available at **GITHUB**
 - 📝 I regularly write articles on **technology and programming.**
 - ⚡ Fun fact **I THINK I AM FUNNY**
-
+<hr>
 <div align="left">
   <a href="https://www.linkedin.com/in/zahidkhan1081/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/zahidkhan1081" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:zahidkhanegoistic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -40,6 +41,7 @@
 <a href="https://dev.to/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="devto" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="codechef" height="30" width="40" /></a>
 </p>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -94,12 +96,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+<hr>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkhan1081&theme=github-dark" alt="GitHub Streak" />
 </p>
 <hr>
-
 <h3 align="center">Detailed Statistics</h3>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahidkhan1081&theme=2077" height="180em" />
@@ -108,7 +110,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zahidkhan1081&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahidkhan1081&theme=github" height="180em" />
 </div>
-
+<hr>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">⚡ Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zahidkhan1081&theme=2077"/>
