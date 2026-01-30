@@ -101,17 +101,16 @@
 
 <h3 align="left">GitHub Stats & Top Languages</h3>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidkhan1081&layout=compact&theme=github-light" alt="Top Languages" />
-
 <p align="center">
-  &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidkhan1081&show_icons=true&locale=en&theme=github-green-purple" alt="GitHub Stats" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidkhan1081&layout=compact&theme=github-light" alt="Top Languages" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidkhan1081&show_icons=true&locale=en&theme=github-green-purple" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkhan1081&theme=github-dark" alt="GitHub Streak" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Detailed Statistics</h3>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahidkhan1081&theme=2077" height="180em" />
