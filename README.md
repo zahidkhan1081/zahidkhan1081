@@ -1,27 +1,50 @@
-#01
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Zahid khan</h1>
 <h3 align="center">Computer Science Student</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/zahidkhan1081/&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/zahidkhan1081/" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/zahidkhan1081/&theme=gruvbox" alt="https://github.com/zahidkhan1081/" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=zahidkhan1081&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
 
-- 🔭 I’m currently working on **FULL STACK**
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zahidkhan1081&theme=gruvbox" alt="trophies" />
+  </a> 
+</p>
+
+-  telescope: I’m currently working on **FULL STACK**
 - 👯 I’m looking to collaborate on **MERN STACK**
 - 🤝 I’m looking for help with **FULL STACK**
 - 🌱 I’m currently learning **FULL STACK**
 - 💬 Ask me about **MERN STACK**
 - 📫 How to reach me **zahidkhanegoistic@gmail.com**
 - 👨‍💻 All of my projects are available at **GITHUB**
-- 📝 I regularly write articles on **I regularly write articles on technology and programming.**
-- ⚡ Fun fact ** I THIN I AM FUNNY**
+- 📝 I regularly write articles on **technology and programming.**
+- ⚡ Fun fact **I THINK I AM FUNNY**
 
-<div> <a href="https://www.linkedin.com/in/https://linkedin.com/zahidkhan1081/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/https://github.com/zahidkhan1081/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:zahidkhanegoistic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/zahidkhan1081/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/zahidkhan1081" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:zahidkhanegoistic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://codesandbox.com/https://codesandbox.io/u/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="https://codesandbox.io/u/zahidkhan1081" height="30" width="40" /></a><a href="https://linkedin.com/in/https://linkedin.com/zahidkhan1081/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://linkedin.com/zahidkhan1081/" height="30" width="40" /></a><a href="https://dribbble.com/https://dribbble.com/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="https://dribbble.com/zahidkhan1081" height="30" width="40" /></a><a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/zahidkhan1081" height="30" width="40" /></a><a href="https://www.leetcode.com/https://leetcode.com/u/zahidkhan1081/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="https://leetcode.com/u/zahidkhan1081/" height="30" width="40" /></a><a href="https://codepen.io/https://codepen.io/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="https://codepen.io/zahidkhan1081" height="30" width="40" /></a><a href="https://stackoverflow.com/users/https://stackoverflow.com/users/29377887/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/29377887/zahidkhan1081" height="30" width="40" /></a><a href="https://kaggle.com/https://www.kaggle.com/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="https://www.kaggle.com/zahidkhan1081" height="30" width="40" /></a><a href="https://codeforces.com/profile/https://codeforces.com/profile/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="https://codeforces.com/profile/zahidkhan1081" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/zahidkhan1081" height="30" width="40" /></a><a href="https://dev.to/https://dev.to/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="https://dev.to/zahidkhan1081" height="30" width="40" /></a><a href="https://www.codechef.com/users/https://www.codechef.com/users/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="https://www.codechef.com/users/zahidkhan1081" height="30" width="40" /></a></p>
+<a href="https://codesandbox.io/u/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zahidkhan1081/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://dribbble.com/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="dribbble" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/zahidkhan1081/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://codepen.io/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29377887/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+<a href="https://dev.to/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="devto" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/zahidkhan1081" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="codechef" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -88,17 +111,18 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkhan1081&theme=github-dark" alt="GitHub Streak" />
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Detailed Statistics</h3>
 <div align="center">
-<a href="https://github.com/https://github.com/zahidkhan1081/">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/zahidkhan1081/&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https://github.com/zahidkhan1081/&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https://github.com/zahidkhan1081/&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=https://github.com/zahidkhan1081/&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/zahidkhan1081/&theme=github" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahidkhan1081&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zahidkhan1081&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahidkhan1081&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zahidkhan1081&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahidkhan1081&theme=github" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/zahidkhan1081/&theme=2077"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡ Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zahidkhan1081&theme=2077"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
