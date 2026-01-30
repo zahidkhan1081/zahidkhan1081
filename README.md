@@ -98,6 +98,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkhan1081&theme=github-dark" alt="GitHub Streak" />
 </p>
+<hr>
 
 <h3 align="center">Detailed Statistics</h3>
 <div align="center">
