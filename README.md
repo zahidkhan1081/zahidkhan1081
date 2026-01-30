@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=zahidkhan1081&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=zahidkhan1081&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 -  telescope: I’m currently working on **FULL STACK**
 - 👯 I’m looking to collaborate on **MERN STACK**
@@ -96,12 +95,12 @@
 </p>
 
 <h3 align="left">GitHub Stats & Top Languages</h3>
-
 <p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidkhan1081&layout=compact&theme=github-light" alt="Top Languages" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidkhan1081&layout=compact&theme=github-light" alt="Top Languages" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidkhan1081&show_icons=true&locale=en&theme=github-green-purple" alt="GitHub Stats" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidkhan1081&show_icons=true&locale=en&theme=github-green-purple" alt="GitHub Stats" />
 </p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkhan1081&theme=github-dark" alt="GitHub Streak" />
