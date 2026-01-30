@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Zahid Khan<br>💻 Computer Science Student | 🌐 Web Developer<br>🚀 Passionate about building clean, responsive web apps<br>🤖 Using AI tools to boost productivity & learning
+Hi, I'm Zahid Khan<br>💻 Computer Science Student | 🌐 Web Developer<br>🚀 Passionate about Tech and building clean, responsive web apps<br>🤖 Using AI tools to boost productivity & learning
 
 
 ## 🌐 Socials:
