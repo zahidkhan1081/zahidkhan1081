@@ -8,6 +8,7 @@
 </p>
 
 <hr>
+
 -  telescope: I’m currently working on **FULL STACK**
 - 👯 I’m looking to collaborate on **MERN STACK**
 - 🤝 I’m looking for help with **FULL STACK**
@@ -17,6 +18,7 @@
 - 👨‍💻 All of my projects are available at **GITHUB**
 - 📝 I regularly write articles on **technology and programming.**
 - ⚡ Fun fact **I THINK I AM FUNNY**
+- 
 <hr>
 <div align="left">
   <a href="https://www.linkedin.com/in/zahidkhan1081/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -95,9 +97,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-
 <hr>
-
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkhan1081&theme=github-dark" alt="GitHub Streak" />
 </p>
@@ -111,7 +111,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahidkhan1081&theme=github" height="180em" />
 </div>
 <hr>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="left">⚡ Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zahidkhan1081&theme=2077"/>
 
