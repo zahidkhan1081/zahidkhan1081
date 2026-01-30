@@ -94,12 +94,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">GitHub Stats & Top Languages</h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidkhan1081&layout=compact&theme=github-light" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahidkhan1081&show_icons=true&locale=en&theme=github-green-purple" alt="GitHub Stats" />
-</p>
-
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkhan1081&theme=github-dark" alt="GitHub Streak" />
